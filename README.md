@@ -16,7 +16,7 @@ in schnellerer Geschwindigkeit. Man muss sich auch weniger
 Gedanken um Schreibfehler machen.
 
 ## Demo
-* Live-Demo: [MEG](https://www...)
+* Live-Demo: [MEG](https://moritzott.github.io/meg-svelte/)
 
 ## Weitere Eckdaten
 * Mobile-First-Ansatz: Auf dem Handy passieren beim
