@@ -21,10 +21,12 @@ Gedanken um Schreibfehler machen.
 ## Zusatzinfo
 Standardmäßig werden die komplilierten Dateien bei Svelte in
 den *public*-Ordner geschrieben. GitHub Pages schaut jedoch entweder
-im Wurzelverzeichnis (root) oder im Ordner /docs. Damit die Webvorschau
+im Wurzelverzeichnis (root) oder im Ordner /docs nach den Dateien. Damit die Webvorschau
 funktioniert, wurde für dieses Repositorium der public-Ordner in den 
 /doc-Ordner kopiert (die kompilierten Dateien sind also sowohl im
 *public*-Ordner für Svelte wie im *docs*-Ordner für GitHub pages).
+Kurz: Das Verzeichnis /docs existiert nur für GitHub Pages! Für
+die Svelte-Anwendung spielt es keine Rolle.
 
 ## Weitere Eckdaten
 * Mobile-First-Ansatz: Auf dem Handy passieren beim
