@@ -18,6 +18,14 @@ Gedanken um Schreibfehler machen.
 ## Demo
 * Live-Demo: [MEG](https://moritzott.github.io/meg-svelte/)
 
+## Zusatzinfo
+Standardmäßig werden die komplilierten Dateien bei Svelte in
+den *public*-Ordner geschrieben. GitHub Pages schaut jedoch entweder
+im Wurzelverzeichnis (root) oder im Ordner /docs. Damit die Webvorschau
+funktioniert, wurde für dieses Repositorium der public-Ordner in den 
+/doc-Ordner kopiert (die kompliierten Dateien sind also sowohl im
+*public*-Ordner wie im *docs*-Ordner).
+
 ## Weitere Eckdaten
 * Mobile-First-Ansatz: Auf dem Handy passieren beim
 Schreiben einer Mail die meisten Tippfehler.
